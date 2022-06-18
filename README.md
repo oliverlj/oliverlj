@@ -17,5 +17,5 @@ Up time:     38 years
 total 2  
 drwxr-xr-x  9 root root 4096 juin 18 00:00 .  
 drwxr-xr-x  3 root root 4096 juin 18 00:00 ..  
-drwxr-xr-x  9 root root 4096 juin 18 00:01 [Fritzy simulator](https://gitlab.com/fritzy/front/fz-front-simulator) - Free financial simulators  
-drwxr-xr-x  9 root root 4096 juin 18 00:02 [CryptoFiscaFacile](https://gitlab.com/c1560/cryptofiscafacile) - French crypto tax reports tools  
+drwxr-xr-x  9 root root 4096 juin 18 00:01 [crypto-fisca-facile](https://gitlab.com/c1560/cryptofiscafacile)  
+drwxr-xr-x  9 root root 4096 juin 18 00:02 [fritzy-simulator](https://gitlab.com/fritzy/front/fz-front-simulator)  
